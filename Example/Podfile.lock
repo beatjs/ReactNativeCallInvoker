@@ -1,0 +1,16 @@
+PODS:
+  - ReactNativeCallInvoker (0.1.0)
+
+DEPENDENCIES:
+  - ReactNativeCallInvoker (from `../`)
+
+EXTERNAL SOURCES:
+  ReactNativeCallInvoker:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ReactNativeCallInvoker: 1e9ffb6bd3d85d13fa80763c37917c3ec64744be
+
+PODFILE CHECKSUM: 8e4012a447eb24c8c64844df121081a88189d363
+
+COCOAPODS: 1.10.1
